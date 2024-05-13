@@ -1,14 +1,14 @@
 # (Digital Music Store Analysis)
 
-## ❀ objective:
+## -objective:
 This project uses SQL to analyze the dataset of an online music store.
 The objective of the project is to gain valuable insights into the store's operations, Customer Segmentation, trends ,artist effectiveness, artist growth, customer interest and money spent by customer
 The goal of the project is to answer a set of questions about the store's business performance and help in its growth by making better decisions.
 
-## ❀ Tool Used:
+## - Tool Used:
 MySQL
 
-## ❀ Tables Used:
+## - Tables Used:
 - album
 
 - artist
@@ -29,10 +29,10 @@ MySQL
 
 - playlist_track
 
-## ❀ Schema
+## - Schema
 ![MusicDatabaseSchema (1)](https://github.com/kanikaarya1/MusicStoreanalysis/assets/143435165/c011e29c-4c62-447c-bae0-7cd33d41f9c5)
 
-## ❀ Questions:
+## - Questions:
 Q1: Who is the senior most employee based on job title?
 
 Q2: Which countries have the most Invoices?
